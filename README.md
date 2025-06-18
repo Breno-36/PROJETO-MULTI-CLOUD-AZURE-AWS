@@ -1,0 +1,2 @@
+# PROJETO-MULTI-CLOUD-AZURE-AWS
+Repositorio para entrega do "PROJETO MULTI CLOUD AZURE &amp; AWS"
